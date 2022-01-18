@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mannasoura
+- 👋 Hi, I’m @mannasoura / Souradip.
 - 👀 I’m interested in learning new tech and keep learning.
 - 🌱 I’m currently learning Python and Data Science.
 - 💞️ I’m looking to collaborate on abosolutely anything I find interesting.
